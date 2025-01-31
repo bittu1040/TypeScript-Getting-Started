@@ -15,6 +15,16 @@
 - Modules
 - Generics
 
+## Object-Oriented Programming
+- Inheritance
+- Super()
+- Polymorphism
+- Access Modifiers
+  - Public vs Private
+  - Protected
+  - Static
+  - Readonly
+
 ## Tooling
 - Linting
 - Debugging
