@@ -18,3 +18,6 @@ class Box<T>{
 
 const numberBox= new Box<number>(123);
 const stringBox= new Box<string>("Hello");
+
+console.log(numberBox.getContent());
+console.log(stringBox.getContent());
