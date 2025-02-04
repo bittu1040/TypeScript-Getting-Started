@@ -40,6 +40,5 @@
 - Promises
 - Async/Await
 
-## Resources
-- Documentation
-- Community
+## Contributing
+Feel free to contact me or add a Pull Request (PR) if you have any suggestions or improvements. 
